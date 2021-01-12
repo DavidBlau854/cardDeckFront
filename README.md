@@ -1,4 +1,6 @@
 To run :
 Download code
-run ```npm i ```
-run ```npm start```
+run 
+```npm i ```
+then run
+ ```npm start```
